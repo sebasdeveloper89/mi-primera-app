@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe.config
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\bin\Debug\MiPrimeraApp.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.exe
+C:\Users\Sebastian\Documents\Code\Net Framework\MiPrimeraApp\MiPrimeraApp\obj\Debug\MiPrimeraApp.pdb
